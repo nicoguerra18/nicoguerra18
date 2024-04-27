@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there! 👋
+### About Me 🌱
+
+
+
 
 <!--
 **nicoguerra18/nicoguerra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
