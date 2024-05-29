@@ -1,4 +1,4 @@
-## hey! I'm Nico 👋
+## Hey! I'm Nico 👋
 ### About Me 🌱
 Hi I'm Nico and I'm currently a senior (class of 2024) at Case Western Reserve University studying Computer Science (B.A) and Neuroscience (B.S) with a minor in Chemistry. I'm interested in artificial intelligence, web/mobile development, game development, and information security. I've had the opportunity to work with a wide array of programming languages and frameworks and have worked extensively in Java and JavaScript (React/Next.js), and I'm also very comfortable with TypeScript, Python, HTML/CSS and C. 
 
