@@ -1,4 +1,4 @@
-## Hi! I'm Nico 👋
+# Hi! I'm Nico 👋
 
 # About Me 🌱
 I'm a recent graduate (class of 2024) from Case Western Reserve University where I majored in Computer Science (B.A) and Neuroscience (B.S) with a minor in Chemistry. I'm interested in artificial intelligence, web/mobile development, game development, and information security. I’m currently a software engineer intern at MSKai where I'm currently working on features for enhancing mobile and cross-platform usability and developing critical dashboards, alarms, and detail-graphs in AWS. Previously, I have also worked as a machine learning undergraduate researcher where I focused on optimizing grouped kernel pruning techniques to improve the efficiency of convolutional neural networks. Please feel free to reach out! I always welcome new opportunities to exchange ideas and to explore collaborations!
